@@ -1,6 +1,6 @@
 # Hey, I'm Marian Syska 👋
 
-**C++ & Python Developer** passionate about building the systems that power modern media — computer graphics, video & audi0 processing and everything in between.
+**C++ & Python Developer** passionate about building the systems that power modern media — computer graphics, video & audio processing and everything in between.
 
 I'm drawn to the intersection of **low-level programming** and **AI** — the space where performance-critical code meets intelligent systems. My interest spans the full spectrum: from entertainment and creative tools to industrial applications like medical imaging, broadcast systems, video analytics, and embedded vision. Anywhere video and audio need to be captured, processed, analyzed, or rendered efficiently — that's where I want to be.
 
